@@ -25,3 +25,4 @@ pip install -r requirements.txt
 ```bash
 uvicorn controller:app --reload
 ```
+then go to localhost:8000/docs for the swagger page
